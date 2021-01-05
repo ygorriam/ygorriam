@@ -1,1 +1,11 @@
-###Sou um desenvolvedor Full Stack em formação, fiz alguns cursos voltados para área de programação utilizando as linguagens : Java , HTML, CSS3 e bootstrap.
+# Ygor Riam
+
+Sou estudante de Sistemas de informação atualmente estou no 3°periodo :)
+
+#### Conhecimento Técnico
+• Linguagem JAVA
+• Bancos de Dados SQL Server / PostGresql
+• Desenvolvimento Front-End HTML e CSS
+• Versionamento com Git / Git hub
+
+
