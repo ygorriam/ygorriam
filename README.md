@@ -13,3 +13,9 @@ Sou estudante de Sistemas de informação atualmente estou no 3°periodo :)
 - sds-2 aplicaçao deliver desenvolvida utilizando Springboot + ReactJS + React Native.
 
 
+#### CONTATO 
+EMAIL: YGORIAM@HOTMAIL.COM
+TELEFONE:(37)998662636
+LINKEDIN:https://www.linkedin.com/in/ygor-riam-915a5719a/
+
+
