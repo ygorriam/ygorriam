@@ -14,7 +14,7 @@ Sou estudante de Sistemas de informação atualmente estou no 3°periodo :)
 
 
 #### CONTATO 
-- EMAIL: YGORIAM@HOTMAIL.COM
+- EMAIL: ygoriam@hotmail.com
 - TELEFONE:(37)998662636
 - LINKEDIN:https://www.linkedin.com/in/ygor-riam-915a5719a/
 
