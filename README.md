@@ -20,23 +20,23 @@ Sou estudante de Sistemas de informação atualmente estou no 7°periodo :)
 
 
 #### EXPERIÊNCIA 
-### 2021 - 2021 - Dropz Boutique Ltda
-### Cargo: Auxiliar de Escritório
+2021 - 2021 - Dropz Boutique Ltda
+Cargo: Auxiliar de Escritório
 Entrada e saída de notas fiscais xml, Estruturação e organização de arquivos de documentos
 Serviços auxiliares de controle financeiro. Preenchimento de formulários, planilhas e outros
 documentos Atendimento (telefone, e-mail). Recebimento de fornecedores e encaminhamento
 dos materiais recebidos. Elaboração de agendas Redação e digitação de documentos e
 comunicados.
 
-### 2021 - 2021 - Delphi Sistemas de Gestão
-### Cargo: Auxiliar de Suporte Técnico
+2021 - 2021 - Delphi Sistemas de Gestão
+Cargo: Auxiliar de Suporte Técnico
 parametrização e suporte em sistema de gestão Delphi SGA. Suporte em todo o dia a dia 
 administrativa dos clientes, como notas fiscais de entradas e saídas, CT-e e MDF-e, 
 Contabilidade, Gestão Tributária Contábil, Financeiro, Manutenção e Produção. 
 Configuração de infraestrutura de servidores, redes e banco de dados (SQL, Oracle e Interbase)
 
-### 2021 - 2023- World System - Soluções em TI
-### Cargo: Analista de Sistemas
+2021 - 2023- World System - Soluções em TI
+Cargo: Analista de Sistemas
 Atendimento remoto e presencial a empresas contratantes do sistema, 
 Análise e repasse de erros encontrados em funcionalidades e interface,
 Análise de banco de dados MySQL, Testes em funcionalidades e banco de dados,
